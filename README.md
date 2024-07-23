@@ -1,6 +1,6 @@
-#Stock Market prediction app
+#Stock Market prediction app<br/>
 
-To run:
-streamlit run app.py
-//to run app with model matrices
-streamlit run model_matrices.py
+To run:<br/>
+streamlit run app.py<br/>
+//to run app with model matrices<br/>
+streamlit run model_matrices.py<br/>
