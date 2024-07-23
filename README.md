@@ -1,4 +1,4 @@
-#Stock Market prediction app<br/>
+# Stock Market prediction app<br/>
 
 To run:<br/>
 streamlit run app.py<br/>
